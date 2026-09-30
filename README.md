@@ -1,2 +1,18 @@
-# my-course-portfolio
-Portfolio of my work and projects for Essentials Tools for Programmers(CEP146NAA)
+# My Course Portfolio
+
+Welcome to my academic portfolio for [Course Name]!
+
+## About Me
+- Name: [Armita Kiashemshaki]
+- Major: [Computer Programming (CPP)]
+- Year: [2026-2027]
+- Favorite Programming Language: [Python and C]
+
+## Course Goals
+- [ ] Learn version control with Git and GitHub
+- [ ] Complete all lab assignments
+- [ ] Build a professional portfolio
+- [ ] Collaborate on group projects
+
+## Projects
+*This section will be updated as I complete assignments*
